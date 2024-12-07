@@ -501,31 +501,33 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:1056 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="4K频道", CCTV16-4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", 北京纪实8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", CCTV16-4K
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000008000023254
-#EXTINF:-1 tvg-logo="" group-title="4K频道", 纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", 纯享4K
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K频道", 纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", 纯享4K
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K频道", 纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", 纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K频道", 纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道", 纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K频道" ,纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道" ,纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="4K频道" ,华数4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道" ,华数4K
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="4K频道" ,欢笑剧场4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道" ,欢笑剧场4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="4K频道" ,咪咕体育4K
+#EXTINF:-1 tvg-logo="" group-title="4K+频道" ,咪咕体育4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="" group-title="4K频道", Fashion TV
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="" group-title="4K+频道", Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Bloomberg TV+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K+频道", Bloomberg TV+
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="" group-title="4K频道", Loupe 4K
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="" group-title="4K+频道", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Love Nature 4K
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K+频道", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
