@@ -493,6 +493,8 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:1056 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:1057 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-5" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=START
 #EXTINF:-1 tvg-logo="" group-title="韩国频道",KBC SBS (Korea)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="韩国频道",KBS World
