@@ -497,6 +497,10 @@ http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="韩国频道",KBC SBS (Korea)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="韩国频道",KBS World
