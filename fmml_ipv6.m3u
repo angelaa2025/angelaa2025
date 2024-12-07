@@ -493,30 +493,14 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:1056 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="" group-title="4K频道", Fashion TV UHD
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="" group-title="4K频道", Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Bloomberg TV+ UHD
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Bloomberg TV+
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K频道", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",KBC SBS (Korea)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",KoreaTV
-https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",M2音乐
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",MBC大田
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韩国频道",MBN
-https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
 http://rihou.cc:555/hy.php?id=11342412
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
