@@ -529,7 +529,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000003000004748/index.m3u8?
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="" group-title="4K+频道" ,咪咕体育4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="" group-title="4K+频道", Fashion TV
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://ghp.ci/https://github.com/angelaa2025/angelaa2025/blob/main/fashiontv.png" group-title="4K+频道", Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="4K+频道", Bloomberg TV+
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
