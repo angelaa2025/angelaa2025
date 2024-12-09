@@ -505,10 +505,6 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:1056 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" group-title="4K+频道", 4K测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" group-title="4K+频道", 4K测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing9.png" group-title="4K+频道", 北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K+频道", CCTV16-4K
